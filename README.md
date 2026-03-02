@@ -4,7 +4,7 @@ A 2D interactive educational game built in the **Godot Engine** to help 1st-grad
 
 <p align="center">
   <img src="Tutorial1.mp4" width="45%" />
-  <img src="https://github.com/user-attachments/assets/b7feed63-65e6-465e-82c1-47b9e903c310" width="45%" />
+  <img src="https://github.com/user-attachments/assets/Tutorial1.mp4" width="45%" />
 </p>
 
 ## The Concept 
