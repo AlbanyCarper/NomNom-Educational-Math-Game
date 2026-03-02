@@ -1,4 +1,4 @@
-# Nom Nom: Educational Math Game 
+# NomNom: Educational Math Game 
 
 A 2D interactive educational game built in the **Godot Engine** to help 1st-grade students learn foundational math, quantity recognition, and counting through visual play and positive reinforcement.
 
